@@ -8,7 +8,7 @@
 I'm big fan of test automation and performance testing. Love ❤️ [locust](https://locust.io/) and [playwright](https://playwright.dev/python/)
 
 ## QA Mania Blog
-With my friends we running blog about testing in Telegram - https://t.me/qamania  
+With my friends we are running blog about testing in Telegram - https://t.me/qamania  
 Also we have website - https://qamania.org  
 Here we talk about our testing experience and share IT realted news
 
