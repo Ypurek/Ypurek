@@ -7,6 +7,8 @@
 - 📈 Performance Test Engineer 
 - 💬 Blogger
 
+My [Linked in](https://www.linkedin.com/in/ostapov/) can tell more about me 
+
 I'm big fan of test automation and performance testing. Love ❤️ [locust](https://locust.io/) and [playwright](https://playwright.dev/python/)
 
 ## QA Mania Blog
