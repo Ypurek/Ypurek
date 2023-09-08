@@ -1,11 +1,14 @@
 ### Hi there 👋
 ## I'm Oleksii Ostapov
 
-- 🐞 QA Engineer
-- 🧙‍♂️ Test Manager
-- 🤖 Test Automation Engineer
-- 📈 Performance Test Engineer 
-- 💬 Blogger
+- 😎 Test Automation sub-practice lead at Infopulse
+- 🐞 15+ years in QA (test automation)
+- 🧙‍♂️ 8+ years in education (Author of manual, test automation and performance testing courses)
+- 📈 Performance Test Engineer
+- 🏅 ISTQB certified (FL + AL TTA + AL TM)
+- 🎙️ [DOU QA podcast speaker](https://www.youtube.com/watch?v=yON9ggOrDK0&list=PLwj_3ikgO3CImNuyGZVC_lvBFXa2Khv0J)
+- 🧑‍⚖️ Lead QA judge at [DEV Challenge XX](https://ua.devchallenge.it/)
+- 💬 Blogger [QA Mania](https://qamania.org/)
 
 My [Linked in](https://www.linkedin.com/in/ostapov/) can tell more about me 
 
