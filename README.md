@@ -1,3 +1,4 @@
+[![Ypurek profile views](https://u8views.com/api/v1/github/profiles/6419044/views/day-week-month-total-count.svg)](https://u8views.com/github/Ypurek)
 ### Hi there 👋
 ## I'm Oleksii Ostapov
 
