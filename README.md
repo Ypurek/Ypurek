@@ -3,7 +3,7 @@
 ## I'm Oleksii Ostapov
 
 - 😎 Test automation engineer at nCube
-- 👑 Former Test Automation practice lead at Infopulse
+- 👑 Former Head of Test Automation practice at Infopulse
 - 🐞 16+ years in QA (test automation)
 - 🧙‍♂️ 8+ years in education (Author of manual, test automation, and performance testing courses)
 - 📈 Performance Test Engineer
