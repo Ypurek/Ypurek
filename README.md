@@ -2,9 +2,10 @@
 ### Hi there 👋
 ## I'm Oleksii Ostapov
 
-- 😎 Test Automation sub-practice lead at Infopulse
-- 🐞 15+ years in QA (test automation)
-- 🧙‍♂️ 8+ years in education (Author of manual, test automation and performance testing courses)
+- 😎 Test automation engineer at nCube
+- 👑 Former Test Automation practice lead at Infopulse
+- 🐞 16+ years in QA (test automation)
+- 🧙‍♂️ 8+ years in education (Author of manual, test automation, and performance testing courses)
 - 📈 Performance Test Engineer
 - 🏅 ISTQB certified (FL + AL TTA + AL TM)
 - 🎙️ [DOU QA podcast speaker](https://www.youtube.com/watch?v=yON9ggOrDK0&list=PLwj_3ikgO3CImNuyGZVC_lvBFXa2Khv0J)
